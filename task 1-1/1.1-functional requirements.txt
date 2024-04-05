@@ -1,0 +1,5 @@
+Functional requirements:-
+1- Search contacts
+2- Update contact
+3- Delete contact
+4- Merge duplicate contacts
